@@ -1,0 +1,6 @@
+site_name: JT
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - Finn: finn.md
+theme: readthedocs
