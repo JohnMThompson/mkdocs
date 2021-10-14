@@ -3,4 +3,6 @@ site_url: https://example.com
 nav:
   - Home: index.md
   - Finn: finn.md
-theme: material
+theme: 
+  name: null
+  custom_dir: 'cinder'
