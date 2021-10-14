@@ -1,2 +1,2 @@
 # mkdocs
-Test are for learning mkdocs
+Test area for learning mkdocs
