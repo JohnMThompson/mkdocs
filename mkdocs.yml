@@ -3,6 +3,7 @@ site_url: https://example.com
 nav:
   - Home: index.md
   - Finn: finn.md
+  - Lake Superior: lakesuperior.md
 theme: 
   name: null
   custom_dir: 'cinder'
